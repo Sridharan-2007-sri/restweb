@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  background:linear-gradient(120deg,#ff0080,#7928ca,#2afadf,#4c83ff);
+  color: black;
+  margin: 0;
+  text-align: center;
+}
+
+header {
+  background:linear-gradient(120deg,#ff0080,#7928ca,#2afadf,#4c83ff);
+  padding: 20px;
+  border-bottom: 3px solid blue;
+}
+
+h1 {
+  color: red;
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+  color: black;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  position: relative;
+  left:30%;
+  
+}
+
+nav a.active,
+nav a:hover {
+  color: blue;
+}
+
+.contact {
+  padding: 200px;
+}
+
+footer {
+  background:linear-gradient(120deg,#ff0080,#7928ca,#2afadf,#4c83ff);
+  color: black;
+  padding: 15px;
+  border-top: 2px solid black;
+}

@@ -1,0 +1,171 @@
+body{
+    
+    background:linear-gradient(120deg,#ff0080,#7928ca,#2afadf,#4c83ff);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+}
+.main{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+}
+a{
+    color:rgb(227, 226, 224);
+    position: relative;
+    left: 1200px;
+}
+.food1{
+    padding: 10px;
+    background-color:violet;
+    width: 180px;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    bottom: 30px;
+    left: 80px;
+}
+.food2{
+    padding: 10px;
+    background-color:violet;
+    width: 180px;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    bottom: 30px;
+    left: 80px;
+    
+}
+.food3{
+    padding: 10px;
+    background-color:violet;
+    width: 180px;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    bottom: 20px;
+    left: 80px;
+}
+.food4{
+    padding: 10px;
+    background-color:violet;
+    width: 180px;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    bottom: 20px;
+    left: 80px;
+    
+}
+.food5{
+    padding: 10px;
+    background-color:violet;
+    width: 180px;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    left: 80px;
+    bottom: 20px;
+    
+}
+.food6{
+    padding: 10px;
+    background-color:violet;
+    width: 180px;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    left: 80px;
+    
+}
+.food7{
+    padding: 10px;
+    background-color:violet;
+    width: 180px;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    left: 80px;
+    
+}
+.food8{
+    padding: 10px;
+    background-color:violet;
+    width: 180px;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    left: 80px;
+    
+}
+.food9{
+    padding: 10px;
+    background-color:violet;
+    width: 180px;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    left: 80px;
+    
+}
+.food10{
+    background-color:violet;
+    width: 180px;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    left: 80px;
+    
+}
+.food11{
+    padding: 10px;
+    background-color:violet;
+    width: 180px;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    left: 80px;
+    top: 10px;
+    
+}
+.food12{
+    padding: 10px;
+    background-color:violet;
+    width: 180px;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    left: 80px;
+    top: 10px;
+}
+img{
+    width: 150px;
+    height: 100px;
+    border: solid rgb(87, 85, 85) 6px;
+}
+h1{
+    text-align: center;
+    position: relative;
+    bottom: 10px;
+   
+    color: rgb(247, 6, 6);
+
+}
+.bottom{
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    top: 50px;
+    background-color: black;
+    color: white;
+}
+nav a {
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+  color: black;
+  position: relative;
+  top: 20px;
+}
